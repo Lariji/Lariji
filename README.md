@@ -1,8 +1,9 @@
 ### Hey I am Matheus
 
- I am a CS student at Cardiff University  
+ I am a CS graduate from Cardiff University  
+ Currently looking for a job to start my career
  I’m interested in AI, science and philosophy  
- Currently building: N/A    
+ Currently building: Website monitor    
  If needed, contact me at : matheuslarini05@gmail.com
 
 <!---
